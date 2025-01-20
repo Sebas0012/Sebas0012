@@ -1,0 +1,15 @@
+C:\Users\Morty\Desktop\Sebas0012\C# Proyects\Program2\bin\Debug\net8.0\Program2.exe
+C:\Users\Morty\Desktop\Sebas0012\C# Proyects\Program2\bin\Debug\net8.0\Program2.deps.json
+C:\Users\Morty\Desktop\Sebas0012\C# Proyects\Program2\bin\Debug\net8.0\Program2.runtimeconfig.json
+C:\Users\Morty\Desktop\Sebas0012\C# Proyects\Program2\bin\Debug\net8.0\Program2.dll
+C:\Users\Morty\Desktop\Sebas0012\C# Proyects\Program2\bin\Debug\net8.0\Program2.pdb
+C:\Users\Morty\Desktop\Sebas0012\C# Proyects\Program2\obj\Debug\net8.0\Program2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morty\Desktop\Sebas0012\C# Proyects\Program2\obj\Debug\net8.0\Program2.AssemblyInfoInputs.cache
+C:\Users\Morty\Desktop\Sebas0012\C# Proyects\Program2\obj\Debug\net8.0\Program2.AssemblyInfo.cs
+C:\Users\Morty\Desktop\Sebas0012\C# Proyects\Program2\obj\Debug\net8.0\Program2.csproj.CoreCompileInputs.cache
+C:\Users\Morty\Desktop\Sebas0012\C# Proyects\Program2\obj\Debug\net8.0\Program2.sourcelink.json
+C:\Users\Morty\Desktop\Sebas0012\C# Proyects\Program2\obj\Debug\net8.0\Program2.dll
+C:\Users\Morty\Desktop\Sebas0012\C# Proyects\Program2\obj\Debug\net8.0\refint\Program2.dll
+C:\Users\Morty\Desktop\Sebas0012\C# Proyects\Program2\obj\Debug\net8.0\Program2.pdb
+C:\Users\Morty\Desktop\Sebas0012\C# Proyects\Program2\obj\Debug\net8.0\Program2.genruntimeconfig.cache
+C:\Users\Morty\Desktop\Sebas0012\C# Proyects\Program2\obj\Debug\net8.0\ref\Program2.dll
