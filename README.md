@@ -49,7 +49,7 @@
 
 **Nombre:** _Proyectos C#_  
 **Descripción:** Serie de programas realizados en lenguaje de programacion C#.  
-**Tecnologías utilizadas:** ![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white) ![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)  
+**Tecnologías utilizadas:** ![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white) ![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?logo=dotnet&logoColor=white)
 
 [🔗 Ir a Carpeta](C%23%20Proyects/)
 
